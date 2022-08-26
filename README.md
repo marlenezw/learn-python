@@ -1,2 +1,2 @@
-# learn-python
-A repository with my favorite resources for beginners learning Python 
+# Learn Python
+A repository with a list of my favorite resources for beginners learning Python 
